@@ -6,6 +6,6 @@ public class Hello_World {
     {
         // Prints "Hello, World" to the terminal window.
         
-        System.out.println("Hello, Lakshitha");
+        System.out.println("Hello, Lakshna");
     }
 }
